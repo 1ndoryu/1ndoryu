@@ -3,7 +3,7 @@
 ### Proyectos
 
 * **[Kamples](https://kamples.com)** - Biblioteca de samples con algoritmos avanzados de recomendación.
-* **[Task](https://task.nakomi.com)** - Gestor de proyectos avanzado con funcionalides enfocada en la organización personalizada. 
+* **[Task](https://task.nakomi.studio)** - Gestor de proyectos avanzado con funcionalides enfocada en la organización personalizada. 
 * **[Sword PHP](https://github.com/1ndoryu/swordphp)** - Headless CMS minimalista y de altísimo rendimiento construido sobre Workerman.
 * **[Glory Sentinel](https://github.com/1ndoryu/glory-sentinel)** - Extensión de VS Code para auditoría continua de código (reglas estáticas + IA).
 * **[Glory](https://github.com/1ndoryu/glory)** - Framework para desarrollar en WordPress de forma moderna.
